@@ -1,4 +1,4 @@
-LAPORAN TUGAS PEMROGRAMAN WEB SRS GLAMOUROUSGEMS
+![Screenshot 2023-09-11 142231](https://github.com/abdillahusein/Kel-2-MI2022C.github.io/assets/124503163/8a75b240-a137-4c27-a91b-4e2281a1abd2)LAPORAN TUGAS PEMROGRAMAN WEB SRS GLAMOUROUSGEMS
 
 Disusun oleh :
 1. Adinda Nasywa Salsabila (22091397082)
@@ -22,3 +22,4 @@ UNIVERSITAS NEGERI SURABAYA
    A. Use Case diagram website GlamourousGems
 
    B. Flowchart diagram website GlamourousGems
+![Screenshot 2023-09-11 142231](https://github.com/abdillahusein/Kel-2-MI2022C.github.io/assets/124503163/488e499a-8c67-4401-9d12-725361b34f76)
