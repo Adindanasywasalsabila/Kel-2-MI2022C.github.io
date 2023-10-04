@@ -1,3 +1,4 @@
+https://github.com/abdillahusein/Kel-2-MI2022C.github.io
 LAPORAN TUGAS PEMROGRAMAN WEB SRS GLAMOUROUSGEMS
 
 Disusun oleh :
