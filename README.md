@@ -12,3 +12,13 @@ FAKULTAS VOKASI
 UNIVERSITAS NEGERI SURABAYA
 
 2023
+
+   1. Tujuan
+
+      Sebuah platform e-commerce yang menyediakan akses kepada pengguna untuk menjelajahi dan membeli barang-barang thrift shop dengan            estetika dan kualitas terbaik. Tujuan dari website ini untuk menawarkan barang-barang thrift shop yang berkualitas kepada audiens           yang lebih luas dengan harga yang terjangkau.
+      
+   2. Lampiran
+      
+      a. Use Case website GlamourousGems
+
+      b. Flowchart diagram website GlamourousGems
