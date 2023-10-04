@@ -35,4 +35,11 @@ UNIVERSITAS NEGERI SURABAYA
    -	Penggunaan deklarasi <!DOCTYPE html> adalah langkah awal yang umum dalam pembuatan dokumen HTML yang valid dan kompatibel dengan standar web.
      
    -	<head> pada bagian ini berisi informasi tentang halaman web, seperti karakter set, viewport, dan judul halaman. Bagian ini adalah metadata halaman.
-   -	
+   
+   -	<meta charset="UTF-8"> Menentukan bahwa halaman web menggunakan karakter set UTF-8.
+
+   -	<meta name="viewport" content="width=device-width, initial-scale=1.0">: Mengatur viewport agar responsif terhadap perangkat yang berbeda.
+
+   -	<title>Thrift Shop</title> digunakan untuk menentukan judul halaman yang akan ditampilkan di tab peramban.
+
+   -	<body> Bagian utama dari halaman web yang berisi konten yang akan ditampilkan kepada pengunjung.
