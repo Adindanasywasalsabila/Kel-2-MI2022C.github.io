@@ -32,7 +32,7 @@ UNIVERSITAS NEGERI SURABAYA
 
    ![image](https://github.com/abdillahusein/Kel-2-MI2022C.github.io/assets/124483393/f6cc75b2-cc6c-4281-8a2c-8de73eafca02)
 
-   -	Penggunaan deklarasi \<!DOCTYPE html> adalah langkah awal yang umum dalam pembuatan dokumen HTML yang valid dan kompatibel dengan standar web.
+   -	Penggunaan deklarasi <!DOCTYPE html> adalah langkah awal yang umum dalam pembuatan dokumen HTML yang valid dan kompatibel dengan standar web.
      
    -	<head> pada bagian ini berisi informasi tentang halaman web, seperti karakter set, viewport, dan judul halaman. Bagian ini adalah metadata halaman.
    
@@ -43,3 +43,5 @@ UNIVERSITAS NEGERI SURABAYA
    -	<title>Thrift Shop</title> digunakan untuk menentukan judul halaman yang akan ditampilkan di tab peramban.
 
    -	<body> Bagian utama dari halaman web yang berisi konten yang akan ditampilkan kepada pengunjung.
+
+   4. Penjelasan CSS
