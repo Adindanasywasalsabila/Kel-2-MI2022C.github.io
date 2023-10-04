@@ -22,3 +22,4 @@ UNIVERSITAS NEGERI SURABAYA
    A. Use Case diagram website GlamourousGems
 
    B. Flowchart diagram website GlamourousGems
+![Screenshot 2023-09-11 142231](https://github.com/abdillahusein/Kel-2-MI2022C.github.io/assets/124503163/c015f79b-b149-4e38-b66d-f25f2f555622)
